@@ -1,0 +1,13 @@
+{
+  "name": "simple-http-server",
+  "version": "1.0.0",
+  "description": "A simple HTTP server for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
